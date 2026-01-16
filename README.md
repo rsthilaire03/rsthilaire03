@@ -1,8 +1,4 @@
-Cybersecurity practitioner with a broad range of interests, including:
-
-- Malware Analysis
-- Digital Forensics
-- Linux Systems
+Independent security researcher focused on malware analysis and incident response, with hands-on experience analyzing live samples.
 
 You can contact me at:
 ```
