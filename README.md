@@ -1,3 +1,15 @@
+Cybersecurity practitioner with a broad range of interests, including:
+
+- Malware Analysis
+- Digital Forensics
+- Linux Systems
+
+You can contact me at:
+```
+rsthilaire03@hotmail.com
+```
+
+PGP:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
