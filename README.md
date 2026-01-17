@@ -1,4 +1,4 @@
-Independent security researcher focused on incident response and malware analysis, with hands-on experience analyzing live samples.
+Independent security researcher focused on incident response and malware analysis.
 
 You can contact me at:
 ```
