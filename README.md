@@ -1,7 +1,7 @@
 ## Riley St. Hilaire
 
 Independent security researcher focused on incident response and malware analysis.\
-\
+<br>
 
 Contact:
 ```
