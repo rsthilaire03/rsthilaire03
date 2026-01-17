@@ -1,6 +1,6 @@
 Independent security researcher focused on incident response and malware analysis.
 
-You can contact me at:
+Contact:
 ```
 rsthilaire03@hotmail.com
 ```
